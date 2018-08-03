@@ -41,7 +41,7 @@
   "dependencies": {
     "babel-loader": "^7.0.0",
     "react": "^15.5.4",
-    "react-dom": "^15.5.4",
+    "react-dom": "^16.0.1",
     "whatwg-fetch": "^2.0.3"
   },
   "main": "server.js"
