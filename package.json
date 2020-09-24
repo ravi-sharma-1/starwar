@@ -40,8 +40,8 @@
   },
   "dependencies": {
     "babel-loader": "^7.0.0",
-    "react": "^15.5.4",
-    "react-dom": "^15.5.4",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
     "whatwg-fetch": "^2.0.3"
   },
   "main": "server.js"
